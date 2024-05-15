@@ -1,4 +1,4 @@
-Hi, I'm Vini!👋
+Hey, I'm Vini!👋🏻
 
 - 💻 Graduated - Computer Technician 
 - 👨🏻‍💻 Academic - Systems Analysis and Development
