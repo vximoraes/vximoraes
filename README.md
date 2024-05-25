@@ -7,12 +7,11 @@ I'm an 18-year-old programming student who aspires to become a software engineer
 
 ## 📦 Tools
 
-#### IDEs: ```Visual Studio``` ```Visual Studio Code```
-#### Frontend Development: ```JavaScript``` ```HTML``` ```CSS```
-#### Backend Development: ```C#``` ```.NET Framework```
-#### Database: ```MySQL```
-#### Testing: ```Postman```
-#### Version Control: ```Git``` ```GitHub```
+- Frontend Development: ```JavaScript``` ```HTML``` ```CSS``` <br>
+- Backend Development: ```C#``` ```.NET Framework``` <br>
+- Database: ```MySQL``` <br>
+- Testing: ```Postman``` <br>
+- Version Control: ```Git``` ```GitHub``` <br>
 
 ## 📫 Contact
 viniciusmoraesvha@gmail.com
