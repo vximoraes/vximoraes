@@ -14,7 +14,7 @@ I'm an 18-year-old programming student who aspires to become a software engineer
  ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 💡 Fun Fact
-- I started enjoying programming when I was 12, writing lines of code in Adobe After Effects to make smooth animations.
+I started enjoying programming when I was 12, writing lines of code in Adobe After Effects to make smooth animations.
 
 ## 📫 Contact
 📩 viniciusmoraesvha@gmail.com
