@@ -2,8 +2,8 @@
 I'm an 18-year-old programming student who aspires to become a software engineer. I started enjoying programming when I was 12, writing lines of code in Adobe After Effects to make smooth animations.
 
 ## 📚 Education
-- 💻 Graduated - Computer Technician
-- 👨🏻‍💻 Academic - Systems Analysis and Development
+- Graduated - Computer Technician
+- Academic - Systems Analysis and Development
 
 ## 📦 Tools
 ![Visual Studio](https://img.shields.io/badge/Visual%20Studio-5C2D91.svg?style=for-the-badge&logo=visual-studio&logoColor=white) ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-0078d7.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white) <br>
@@ -14,4 +14,4 @@ I'm an 18-year-old programming student who aspires to become a software engineer
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 
 ## 📫 Contact
-📩 viniciusmoraesvha@gmail.com
+viniciusmoraesvha@gmail.com
