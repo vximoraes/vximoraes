@@ -13,5 +13,3 @@ I'm an 19-year-old programming student who aspires to become a software engineer
 - Testing: ```Postman``` <br>
 - Version Control: ```Git``` ```GitHub``` <br>
 
-## 📫 Contact
-E-mail: viniciusmoraesvha@gmail.com
