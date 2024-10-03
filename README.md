@@ -10,4 +10,4 @@ I'm an 19-years-old programming student who aspires to become a software enginee
 - **Backend Development:** ```C#``` ```Java``` <br>
 - **Database:** ```MySQL``` <br>
 - **Version Control:** ```Git``` ```GitHub``` <br>
-- **Agile Methodologies:** ```Scrum``` ```Kanban``` <br>
+- **Agile Methodologies:** ```Scrum``` ```Kanban``` ```PM Canvas```  <br>
