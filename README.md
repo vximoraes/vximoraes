@@ -2,9 +2,12 @@
 
 I started enjoying programming when I was 12, writing lines of code in Adobe After Effects to make smooth video animations.
 
-### 📚 Education
-- **💻 Graduated** - Computer Technician
-- **👨🏻‍💻 Academic** - Systems Analysis and Development
+### 🏆 Certifications
+
+- [AWS Certified Cloud Practitioner](https://www.credly.com/badges/c8c4983c-8546-44ea-ad88-c552c7859e94/linked_in_profile) - Amazon Web Services (AWS)
+- [AI-Assisted Certified Professional](https://learning.compass.uol/pluginfile.php/1/tool_certificate/issues/1740076755/4799041981VA.pdf) - Compass UOL
+- [Gen AI Technical Certification](https://learning.compass.uol/pluginfile.php/1/tool_certificate/issues/1740079215/9349499029VA.pdf) - Compass UOL
+- [Networking Basics](https://www.credly.com/badges/67263046-1c89-4bd0-8127-b0abf281d80e/linked_in_profile) - Cisco
 
 ### 📦 Toolbox
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) 
