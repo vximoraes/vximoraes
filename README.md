@@ -1,6 +1,6 @@
 ## Hello, World!👋
 
-I'm an 19-years-old programming student who aspires to become a software engineer. I started enjoying programming when I was 12, writing lines of code in Adobe After Effects to make smooth video animations.
+I started enjoying programming when I was 12, writing lines of code in Adobe After Effects to make smooth video animations.
 
 ### 📚 Education
 - **💻 Graduated** - Computer Technician
