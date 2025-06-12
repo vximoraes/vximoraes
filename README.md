@@ -24,3 +24,7 @@ I started enjoying programming when I was 12, writing lines of code in Adobe Aft
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) 
 ![SQLite](https://img.shields.io/badge/sqlite-%2307405e.svg?style=for-the-badge&logo=sqlite&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
+
+<br>
+
+<img src="https://streak-stats.demolab.com?user=vximoraes&locale=en&mode=daily&theme=gotham&hide_border=true&border_radius=5&order=3" height="170" alt="streak graph"  />
