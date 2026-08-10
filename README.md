@@ -1,5 +1,6 @@
-## Hello, World! 👋
-
-I'm Vini, a Back-End and AI Developer focused on building efficient and scalable systems. My work involves creating solutions that automate workflows, with a clear focus on quality and innovation.
-
-✉️ E-mail: viniciusmoraesvha@gmail.com
+<a href="https://github.com/vximoraes">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/vximoraes/vximoraes/main/dark_mode.svg">
+    <img alt="Vinícius Moraes' GitHub Profile README" src="https://raw.githubusercontent.com/vximoraes/vximoraes/main/light_mode.svg">
+  </picture>
+</a>
