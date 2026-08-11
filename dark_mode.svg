@@ -25,30 +25,30 @@ size-adjust: 109%;
 text, tspan {white-space: pre;}
 </style>
 <rect width="985px" height="550px" fill="#161b22" rx="5"/>
-<text x="195" y="30" fill="#c9d1d9" font-size="14.76px">
-<tspan x="195" y="96.8" text-anchor="middle" class="ascii2">:::::::::::</tspan>
-<tspan x="195" y="113.0" text-anchor="middle" class="ascii2">::::::::::::::::</tspan>
-<tspan x="195" y="129.2" text-anchor="middle" class="ascii2">.::::::::::::::::.::</tspan>
-<tspan x="195" y="145.4" text-anchor="middle" class="ascii2">.::::::::::::::::::::::::</tspan>
-<tspan x="195" y="161.6" text-anchor="middle" class="ascii2">::::::::---------:::::::::</tspan>
-<tspan x="195" y="177.8" text-anchor="middle" class="ascii2">:::::::--===++=====-:::::::-.</tspan>
-<tspan x="195" y="194.0" text-anchor="middle" class="ascii2">:::::::---==+++*####+--:::::::::</tspan>
-<tspan x="195" y="210.2" text-anchor="middle" class="ascii2">::::::---==++***#####*=-::::::::</tspan>
-<tspan x="195" y="226.4" text-anchor="middle" class="ascii2">.::::--==-+*##*##*+##*=--:::::.</tspan>
-<tspan x="195" y="242.6" text-anchor="middle" class="ascii2">::::::-------=+*+=---==--=---:::</tspan>
-<tspan x="195" y="258.8" text-anchor="middle" class="ascii2">::::--=+#*=--*##+=-+###++-:::.</tspan>
+<text x="195" y="30" fill="#c9d1d9" font-size="18.04px">
+<tspan x="195" y="57.2" text-anchor="middle" class="ascii2">:::::::::::</tspan>
+<tspan x="195" y="77.0" text-anchor="middle" class="ascii2">::::::::::::::::</tspan>
+<tspan x="195" y="96.8" text-anchor="middle" class="ascii2">.::::::::::::::::.::</tspan>
+<tspan x="195" y="116.6" text-anchor="middle" class="ascii2">.::::::::::::::::::::::::</tspan>
+<tspan x="195" y="136.4" text-anchor="middle" class="ascii2">::::::::---------:::::::::</tspan>
+<tspan x="195" y="156.2" text-anchor="middle" class="ascii2">:::::::--===++=====-:::::::-.</tspan>
+<tspan x="195" y="176.0" text-anchor="middle" class="ascii2">:::::::---==+++*####+--:::::::::</tspan>
+<tspan x="195" y="195.8" text-anchor="middle" class="ascii2">::::::---==++***#####*=-::::::::</tspan>
+<tspan x="195" y="215.6" text-anchor="middle" class="ascii2">.::::--==-+*##*##*+##*=--:::::.</tspan>
+<tspan x="195" y="235.4" text-anchor="middle" class="ascii2">::::::-------=+*+=---==--=---:::</tspan>
+<tspan x="195" y="255.2" text-anchor="middle" class="ascii2">::::--=+#*=--*##+=-+###++-:::.</tspan>
 <tspan x="195" y="275.0" text-anchor="middle" class="ascii2">::::-----=---+##+=--===+*--::.</tspan>
-<tspan x="195" y="291.2" text-anchor="middle" class="ascii2">.::-==++++---+*#########*=-::</tspan>
-<tspan x="195" y="307.4" text-anchor="middle" class="ascii2">:::-=+***---=####%%%%%%##=-=:</tspan>
-<tspan x="195" y="323.6" text-anchor="middle" class="ascii2">--:-=+*#=--:--+-=###%%%%#===</tspan>
-<tspan x="195" y="339.8" text-anchor="middle" class="ascii2">--::-=**#*+=+*######%%%#*=++</tspan>
-<tspan x="195" y="356.0" text-anchor="middle" class="ascii2">.-----=+++===++#########**#=</tspan>
-<tspan x="195" y="372.2" text-anchor="middle" class="ascii2">--:--=+=---------=+####*+*-</tspan>
-<tspan x="195" y="388.4" text-anchor="middle" class="ascii2">--=++=--==+*####%###</tspan>
-<tspan x="195" y="404.6" text-anchor="middle" class="ascii2">--=+=+***#%%%%%###</tspan>
-<tspan x="195" y="420.8" text-anchor="middle" class="ascii2">-=+++++*######</tspan>
-<tspan x="195" y="437.0" text-anchor="middle" class="ascii2">-=++#**###*=</tspan>
-<tspan x="195" y="453.2" text-anchor="middle" class="ascii2">-=*#*+###</tspan>
+<tspan x="195" y="294.8" text-anchor="middle" class="ascii2">.::-==++++---+*#########*=-::</tspan>
+<tspan x="195" y="314.6" text-anchor="middle" class="ascii2">:::-=+***---=####%%%%%%##=-=:</tspan>
+<tspan x="195" y="334.4" text-anchor="middle" class="ascii2">--:-=+*#=--:--+-=###%%%%#===</tspan>
+<tspan x="195" y="354.2" text-anchor="middle" class="ascii2">--::-=**#*+=+*######%%%#*=++</tspan>
+<tspan x="195" y="374.0" text-anchor="middle" class="ascii2">.-----=+++===++#########**#=</tspan>
+<tspan x="195" y="393.8" text-anchor="middle" class="ascii2">--:--=+=---------=+####*+*-</tspan>
+<tspan x="195" y="413.6" text-anchor="middle" class="ascii2">--=++=--==+*####%###</tspan>
+<tspan x="195" y="433.4" text-anchor="middle" class="ascii2">--=+=+***#%%%%%###</tspan>
+<tspan x="195" y="453.2" text-anchor="middle" class="ascii2">-=+++++*######</tspan>
+<tspan x="195" y="473.0" text-anchor="middle" class="ascii2">-=++#**###*=</tspan>
+<tspan x="195" y="492.8" text-anchor="middle" class="ascii2">-=*#*+###</tspan>
 </text>
 <text x="390" y="30" fill="#c9d1d9">
 <tspan x="390" y="30" class="header">vinicius@moraes</tspan> -————————————————————————————————————————-—-
