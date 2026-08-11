@@ -278,13 +278,13 @@ def svg_overwrite(filename, age_data, commit_data, repo_data, contrib_data, loc_
     """
     tree = etree.parse(filename)
     root = tree.getroot()
-    justify_format(root, 'age_data', age_data, len(age_data) + 12)
-    justify_format(root, 'commit_data', commit_data, 18)
-    justify_format(root, 'repo_data', repo_data, 4)
+    justify_format(root, 'age_data', age_data, len(age_data) + 23)
+    justify_format(root, 'commit_data', commit_data, 48)
+    justify_format(root, 'repo_data', repo_data, 32)
     justify_format(root, 'contrib_data', contrib_data)
-    justify_format(root, 'loc_data', loc_data[2], 13)
+    justify_format(root, 'loc_data', loc_data[2], 15)
     justify_format(root, 'loc_add', loc_data[0])
-    justify_format(root, 'loc_del', loc_data[1], 11)
+    justify_format(root, 'loc_del', loc_data[1], 7)
     tree.write(filename, encoding='utf-8', xml_declaration=True)
 
 
