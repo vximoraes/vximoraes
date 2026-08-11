@@ -55,16 +55,16 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="50" class="cc">. </tspan><tspan class="key">Role</tspan>:<tspan class="cc"> .............................. </tspan><tspan class="value">Backend &amp; AI Engineer</tspan>
 <tspan x="390" y="70" class="cc">. </tspan><tspan class="key">Uptime</tspan>:<tspan class="cc" id="age_data_dots"> ....................... </tspan><tspan class="value" id="age_data">21 years, 1 month, 19 days</tspan>
 <tspan x="390" y="90" class="cc">. </tspan><tspan class="key">Hobbies</tspan>:<tspan class="cc"> ............. </tspan><tspan class="value">Music, Movies, Reading, Games, Cars</tspan>
-<tspan x="390" y="130">- Stack</tspan> -———————————————————————————————————————————————-—-
-<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ............... </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
-<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">Node.js, NestJS, Express, FastAPI, Fastify</tspan>
+<tspan x="390" y="130">- Stack</tspan> -———————————————————————————————————————————————-—--
+<tspan x="390" y="150" class="cc">. </tspan><tspan class="key">Languages</tspan>:<tspan class="cc"> ................ </tspan><tspan class="value">TypeScript, JavaScript, Python</tspan>
+<tspan x="390" y="170" class="cc">. </tspan><tspan class="key">Backend</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">Node.js, NestJS, Express, FastAPI, Fastify</tspan>
 <tspan x="390" y="190" class="value">  WebSockets, Swagger</tspan>
-<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">React, Next.js, TailwindCSS, Shadcn/UI</tspan>
-<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">AI/LLM</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">LangChain, LangGraph, RAG, MCP, LLMs, Langfuse </tspan>
+<tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ......... </tspan><tspan class="value">React, Next.js, TailwindCSS, Shadcn/UI</tspan>
+<tspan x="390" y="230" class="cc">. </tspan><tspan class="key">AI/LLM</tspan>:<tspan class="cc"> ... </tspan><tspan class="value">LangChain, LangGraph, RAG, MCP, LLMs, Langfuse </tspan>
 <tspan x="390" y="250" class="value">  n8n</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis, pgvector, ChromaDB</tspan>
-<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">DevOps</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Docker, Kubernetes, AWS, GCP</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Testing</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Jest, Cypress, pytest</tspan>
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ..... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis, pgvector, ChromaDB</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">DevOps</tspan>:<tspan class="cc"> ..................... </tspan><tspan class="value">Docker, Kubernetes, AWS, GCP</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Testing</tspan>:<tspan class="cc"> ........................... </tspan><tspan class="value">Jest, Cypress, pytest</tspan>
 <tspan x="390" y="350">- Contact</tspan> -——————————————————————————————————————————————-—-
 <tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">viniciusmoraesvha@gmail.com</tspan>
 <tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">moraesvini</tspan>
