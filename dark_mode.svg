@@ -9,8 +9,8 @@ font-display: swap;
 size-adjust: 109%;
 }
 .key {fill: #ffa657;}
-.value {fill: #a5d6ff;}
-.header {fill: #79c0ff;}
+.value {fill: #ffffff;}
+.header {fill: #ffffff;}
 .addColor {fill: #3fb950;}
 .delColor {fill: #f85149;}
 .cc {fill: #616e7f;}
@@ -62,18 +62,17 @@ text, tspan {white-space: pre;}
 <tspan x="390" y="210" class="cc">. </tspan><tspan class="key">Frontend</tspan>:<tspan class="cc"> ........ </tspan><tspan class="value">React, Next.js, TailwindCSS, Shadcn/UI</tspan>
 <tspan x="390" y="230" class="cc">. </tspan><tspan class="key">AI/LLM</tspan>:<tspan class="cc"> .. </tspan><tspan class="value">LangChain, LangGraph, RAG, MCP, LLMs, Langfuse </tspan>
 <tspan x="390" y="250" class="value">  n8n</tspan>
-<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis, Prisma, pgvector</tspan>
-<tspan x="390" y="290" class="value">  ChromaDB</tspan>
-<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">DevOps</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Docker, Kubernetes, AWS, GCP</tspan>
-<tspan x="390" y="330" class="cc">. </tspan><tspan class="key">Testing</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Jest, Cypress, pytest</tspan>
-<tspan x="390" y="370">- Contact</tspan> -——————————————————————————————————————————————-—-
-<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">viniciusmoraesvha@gmail.com</tspan>
-<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">moraesvini</tspan>
-<tspan x="390" y="430" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">vximoraes</tspan>
-<tspan x="390" y="450" class="cc">. </tspan>
-<tspan x="390" y="470">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
-<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .............................. </tspan><tspan class="value" id="repo_data">94</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">96</tspan>}
-<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ........................................... </tspan><tspan class="value" id="commit_data">4,813</tspan>
-<tspan x="390" y="530" class="cc">. </tspan><tspan class="key">Lines Of Code</tspan>:<tspan class="cc" id="loc_data_dots"> ........ </tspan><tspan class="value" id="loc_data">988,674</tspan> ( <tspan class="addColor" id="loc_add">1,452,243</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">463,569</tspan><tspan class="delColor">--</tspan> )
+<tspan x="390" y="270" class="cc">. </tspan><tspan class="key">Data</tspan>:<tspan class="cc"> ...... </tspan><tspan class="value">PostgreSQL, MongoDB, Redis, pgvector, ChromaDB</tspan>
+<tspan x="390" y="290" class="cc">. </tspan><tspan class="key">DevOps</tspan>:<tspan class="cc"> .................... </tspan><tspan class="value">Docker, Kubernetes, AWS, GCP</tspan>
+<tspan x="390" y="310" class="cc">. </tspan><tspan class="key">Testing</tspan>:<tspan class="cc"> .......................... </tspan><tspan class="value">Jest, Cypress, pytest</tspan>
+<tspan x="390" y="350">- Contact</tspan> -——————————————————————————————————————————————-—-
+<tspan x="390" y="370" class="cc">. </tspan><tspan class="key">Email</tspan>:<tspan class="cc"> ....................... </tspan><tspan class="value">viniciusmoraesvha@gmail.com</tspan>
+<tspan x="390" y="390" class="cc">. </tspan><tspan class="key">LinkedIn</tspan>:<tspan class="cc"> ..................................... </tspan><tspan class="value">moraesvini</tspan>
+<tspan x="390" y="410" class="cc">. </tspan><tspan class="key">GitHub</tspan>:<tspan class="cc"> ........................................ </tspan><tspan class="value">vximoraes</tspan>
+<tspan x="390" y="430" class="cc">. </tspan>
+<tspan x="390" y="450">- GitHub Stats</tspan> -—————————————————————————————————————————-—-
+<tspan x="390" y="470" class="cc">. </tspan><tspan class="key">Repos</tspan>:<tspan class="cc" id="repo_data_dots"> .............................. </tspan><tspan class="value" id="repo_data">94</tspan> {<tspan class="key">Contributed</tspan>: <tspan class="value" id="contrib_data">96</tspan>}
+<tspan x="390" y="490" class="cc">. </tspan><tspan class="key">Commits</tspan>:<tspan class="cc" id="commit_data_dots"> ........................................... </tspan><tspan class="value" id="commit_data">4,813</tspan>
+<tspan x="390" y="510" class="cc">. </tspan><tspan class="key">Lines Of Code</tspan>:<tspan class="cc" id="loc_data_dots"> ........ </tspan><tspan class="value" id="loc_data">988,674</tspan> ( <tspan class="addColor" id="loc_add">1,452,243</tspan><tspan class="addColor">++</tspan>, <tspan id="loc_del_dots"></tspan><tspan class="delColor" id="loc_del">463,569</tspan><tspan class="delColor">--</tspan> )
 </text>
 </svg>
